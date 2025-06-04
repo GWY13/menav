@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-05-22T06:16:42.114Z
+# 由bookmark-processor.js生成于 2025-06-04T12:32:38.344Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -92,6 +92,10 @@ categories:
       - name: Seede AI - 简单、快速、有趣的图形设计工具
         url: https://seede.ai/create
         icon: fas fa-link
+        description: ""
+      - name: Chat | Google AI Studio
+        url: https://aistudio.google.com/prompts/new_chat
+        icon: fab fa-google
         description: ""
   - name: ACG
     icon: fas fa-folder
@@ -1200,6 +1204,18 @@ categories:
         url: https://jpg5.su/
         icon: fas fa-link
         description: ""
+      - name: CSDN文章解锁工具
+        url: https://csdn.zeroai.chat/
+        icon: fas fa-link
+        description: ""
+      - name: 爱纯净博客_win11系统下载_win11纯净版_win11下载
+        url: https://www.aichunjing.cn/
+        icon: fas fa-link
+        description: ""
+      - name: F4Pan
+        url: https://pan.f4team.cn/#/
+        icon: fas fa-link
+        description: ""
   - name: 机场
     icon: fas fa-folder
     sites:
@@ -1270,6 +1286,14 @@ categories:
       - name: 面板 - XXAI, Inc.
         url: https://panel.xx-ai.uk/
         icon: fas fa-link
+        description: ""
+      - name: 仪表盘 | 折花令
+        url: https://client.zhehua.store/#/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: "🔥🔥🔥共享订阅 · Issue #91 · wzdnzd/aggregator"
+        url: https://github.com/wzdnzd/aggregator/issues/91
+        icon: fab fa-github
         description: ""
   - name: 音乐
     icon: fas fa-folder
@@ -1447,6 +1471,14 @@ categories:
         description: ""
       - name: 短剧资源网 - 新一代夸克云盘搜索引擎
         url: https://www.duanju.click/
+        icon: fas fa-link
+        description: ""
+      - name: 低调使用（中转页）
+        url: https://app.yinxiang.com/fx/25dc85b4-33ec-414b-82e9-a4ccb4005f7d
+        icon: fas fa-link
+        description: ""
+      - name: 音范丝 | 首页——精选4K蓝光原盘下载,顶级收藏
+        url: https://www.yinfans.me/
         icon: fas fa-link
         description: ""
   - name: 其他
