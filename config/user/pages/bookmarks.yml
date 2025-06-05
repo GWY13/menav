@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-05T07:46:39.931Z
+# 由bookmark-processor.js生成于 2025-06-05T09:11:55.415Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1214,6 +1214,14 @@ categories:
         description: ""
       - name: F4Pan
         url: https://pan.f4team.cn/#/
+        icon: fas fa-link
+        description: ""
+      - name: 文件列表
+        url: https://yyzz.sh805.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 宝藏
+        url: https://bdbdjx.top/user/parse
         icon: fas fa-link
         description: ""
   - name: 机场
