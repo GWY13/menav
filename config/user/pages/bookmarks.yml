@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-06T13:06:37.369Z
+# 由bookmark-processor.js生成于 2025-06-06T13:25:13.881Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -96,6 +96,10 @@ categories:
       - name: Chat | Google AI Studio
         url: https://aistudio.google.com/prompts/new_chat
         icon: fab fa-google
+        description: ""
+      - name: RawChat公益站点
+        url: https://sharedchat.fun/
+        icon: fas fa-link
         description: ""
   - name: ACG
     icon: fas fa-folder
