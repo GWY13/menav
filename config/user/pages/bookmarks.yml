@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-12T12:21:44.289Z
+# 由bookmark-processor.js生成于 2025-06-12T16:00:51.512Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -9,44 +9,52 @@ categories:
   - name: AI
     icon: fas fa-folder
     sites:
+      - name: ChatGPT
+        url: https://chat.openai.com/
+        icon: fas fa-link
+        description: ""
       - name: OpenAI API
         url: https://platform.openai.com/account/api-keys
         icon: fas fa-link
         description: ""
-      - name: 达尔·E
-        url: https://labs.openai.com/
+      - name: RawChat公益站点
+        url: https://sharedchat.fun/
         icon: fas fa-link
+        description: ""
+      - name: DeepSeek 开放平台
+        url: https://platform.deepseek.com/usage
+        icon: fas fa-link
+        description: ""
+      - name: Grok
+        url: https://grok.com/
+        icon: fas fa-link
+        description: ""
+      - name: Chat | Google AI Studio
+        url: https://aistudio.google.com/prompts/new_chat
+        icon: fab fa-google
+        description: ""
+      - name: Gemini
+        url: https://gemini.google.com/app
+        icon: fab fa-google
         description: ""
       - name: Bard
         url: https://bard.google.com/chat/8928b4ba2dd92317
         icon: fab fa-google
         description: ""
-      - name: Remove unwanted objects from photos by dragging boxes
-        url: https://cleanupphotos.com/
+      - name: 克劳德
+        url: https://claude.ai/chats
         icon: fas fa-link
         description: ""
       - name: 黑匣子 AI 代码聊天
         url: https://www.blackbox.ai/
         icon: fas fa-link
         description: ""
-      - name: Alkali 应用程序
-        url: https://makersuite.google.com/app/prompts/new_freeform
-        icon: fab fa-google
-        description: ""
-      - name: ChatGPT
-        url: https://chat.openai.com/
+      - name: Remove unwanted objects from photos by dragging boxes
+        url: https://cleanupphotos.com/
         icon: fas fa-link
         description: ""
       - name: 绘图提示：AI驱动的提示生成器
         url: https://drawing-prompt.com/zh-Hans#random-prompt
-        icon: fas fa-link
-        description: ""
-      - name: AI故事绘图
-        url: https://mingze.jurilu.com/#/users
-        icon: fas fa-link
-        description: ""
-      - name: 克劳德
-        url: https://claude.ai/chats
         icon: fas fa-link
         description: ""
       - name: 开源的AI搜索引擎 - isou.chat
@@ -61,21 +69,9 @@ categories:
         url: https://lmarena.ai/
         icon: fas fa-link
         description: ""
-      - name: RawChat公益站点
-        url: https://kelaode.ai/
-        icon: fas fa-link
-        description: ""
       - name: 问小白 - DeepSeek R1 推理图片生成独家首发
         url: https://www.wenxiaobai.com/chat/tourist
         icon: fas fa-link
-        description: ""
-      - name: Grok
-        url: https://grok.com/
-        icon: fas fa-link
-        description: ""
-      - name: Gemini
-        url: https://gemini.google.com/app
-        icon: fab fa-google
         description: ""
       - name: Stories - NovelAI
         url: https://novelai.net/stories
@@ -85,20 +81,8 @@ categories:
         url: https://www.onlyus.ai/home
         icon: fas fa-link
         description: ""
-      - name: DeepSeek 开放平台
-        url: https://platform.deepseek.com/usage
-        icon: fas fa-link
-        description: ""
       - name: Seede AI - 简单、快速、有趣的图形设计工具
         url: https://seede.ai/create
-        icon: fas fa-link
-        description: ""
-      - name: Chat | Google AI Studio
-        url: https://aistudio.google.com/prompts/new_chat
-        icon: fab fa-google
-        description: ""
-      - name: RawChat公益站点
-        url: https://sharedchat.fun/
         icon: fas fa-link
         description: ""
   - name: ACG
@@ -110,10 +94,6 @@ categories:
         description: ""
       - name: 【新提醒】ZodGame论坛 - Powered by Discuz!
         url: https://zodgame.xyz/
-        icon: fas fa-link
-        description: ""
-      - name: 【新提醒】喵茶ACG社区-ACG福利社-ACG资源分享-ACG游戏下载 -
-        url: https://mcacgsq.com/forum.php
         icon: fas fa-link
         description: ""
       - name: 萌萌御所 - ★ACG资源分享社区★
@@ -168,10 +148,6 @@ categories:
         url: https://51acg.buzz/
         icon: fas fa-link
         description: ""
-      - name: 【新提醒】桃源ACG - 全网免费下载
-        url: https://taoacg.top/
-        icon: fas fa-link
-        description: ""
       - name: 量子ACG
         url: https://lzacg.org/
         icon: fas fa-link
@@ -194,10 +170,6 @@ categories:
         description: ""
       - name: Galgame月谣
         url: https://www.sayafx.top/
-        icon: fas fa-link
-        description: ""
-      - name: 樱花acg资源网 - ACG论坛
-        url: https://acgyh.com/
         icon: fas fa-link
         description: ""
       - name: 嘤嘤怪之家
@@ -248,10 +220,6 @@ categories:
         url: https://acgmgo.info/
         icon: fas fa-link
         description: ""
-      - name: ACG城邦 - Powered by Discuz!
-        url: https://acgwg.com/forum.php
-        icon: fas fa-link
-        description: ""
       - name: ACG聚集 - 二次元动漫导航交流网站(二次元宝藏资源聚合)
         url: https://acgjj.net/
         icon: fas fa-link
@@ -296,12 +264,8 @@ categories:
         url: https://rainkmc.com/forum.php
         icon: fas fa-link
         description: ""
-      - name: 萌站
-        url: https://m.mengzhan19.xyz/home
-        icon: fas fa-link
-        description: ""
-      - name: 规则 34 - 如果存在，就有它的色情内容。
-        url: https://rule34.xxx/
+      - name: 萌站网址发布页
+        url: https://mengzhan.link/
         icon: fas fa-link
         description: ""
   - name: 漫画
@@ -380,10 +344,6 @@ categories:
         description: ""
       - name: Hanime1.me - H動漫/裏番/線上看
         url: https://hanime1.me/
-        icon: fas fa-link
-        description: ""
-      - name: 整合回路
-        url: https://m.anmaxjp.com/mobile.html
         icon: fas fa-link
         description: ""
       - name: "Browse :: Sukebei"
@@ -512,24 +472,12 @@ categories:
   - name: 小说
     icon: fas fa-folder
     sites:
-      - name: 【新提醒】奇书楼-百万TXT小说,电子书爱好者聚集地!
-        url: https://www.qishulou.net/forum.php
-        icon: fas fa-link
-        description: ""
-      - name: 小说 - 樱盒提取码adssadax
-        url: https://sakuradrive.com/s/JQMAhl?path=%2F
-        icon: fas fa-link
-        description: ""
       - name: 想爱爱，就上有爱爱-最好的成人色情网站-立即访问！
         url: https://www.uaa001.com/
         icon: fas fa-link
         description: ""
       - name: 安娜的档案
         url: https://zh.annas-archive.li/
-        icon: fas fa-link
-        description: ""
-      - name: 【新提醒】奇书楼-百万TXT小说,电子书爱好者聚集地!
-        url: https://www.qishulou.com/forum.php
         icon: fas fa-link
         description: ""
       - name: owllook - 网络小说搜索引擎 - 最简洁清新的搜索阅读体验
@@ -588,16 +536,20 @@ categories:
         url: https://hlib.cc/n
         icon: fas fa-link
         description: ""
-      - name: H图书馆
-        url: https://hlib.cc/
-        icon: fas fa-link
-        description: ""
       - name: cool18.com 酷18-手机版
         url: https://wap.cool18.com/index.php?app=index&amp;act=bbs&amp;bbsid=60
         icon: fas fa-link
         description: ""
       - name: GWY1314的个人资料 - 阡陌居 - 手机版 - Powered by Discuz!
         url: https://www.1000qm.vip/home.php?mod=space&amp;uid=11930&amp;do=profile&amp;mycenter=1&amp;mobile=2
+        icon: fas fa-link
+        description: ""
+      - name: 【新提醒】宝书友-百万小说书友聚集地!
+        url: https://www.baoshuyou.com/
+        icon: fas fa-link
+        description: ""
+      - name: 搜书吧-网络小说交流论坛 - Powered by Discuz!
+        url: http://return.kansoushu.com/forum.php
         icon: fas fa-link
         description: ""
   - name: 模组
