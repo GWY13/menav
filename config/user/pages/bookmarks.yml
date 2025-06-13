@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-12T16:00:51.512Z
+# 由bookmark-processor.js生成于 2025-06-13T11:10:09.930Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -71,6 +71,10 @@ categories:
         description: ""
       - name: 问小白 - DeepSeek R1 推理图片生成独家首发
         url: https://www.wenxiaobai.com/chat/tourist
+        icon: fas fa-link
+        description: ""
+      - name: sora-web-app
+        url: https://sora.moemiku.com/
         icon: fas fa-link
         description: ""
       - name: Stories - NovelAI
@@ -586,16 +590,12 @@ categories:
         url: https://www.52pojie.cn/forum.php
         icon: fas fa-link
         description: ""
+      - name: 易破解 - 给你所需要的内容
+        url: https://www.ypojie.com/
+        icon: fas fa-link
+        description: ""
       - name: 海上程序员
         url: http://www.oceancoder.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 残雪导航迎接界面
-        url: http://okb.daohangux.com/
-        icon: fas fa-link
-        description: ""
-      - name: 27CaT论坛-最全面的资源论坛,学破解教程,VIP视频收集等
-        url: https://www.27cat.com/forum.php
         icon: fas fa-link
         description: ""
       - name: APP喵-阿喵软件分享 – 优质APP软件资源分享下载站
@@ -632,10 +632,6 @@ categories:
         description: ""
       - name: 热门话题 - LINUX DO
         url: https://linux.do/top?period=daily
-        icon: fas fa-link
-        description: ""
-      - name: Poi社区
-        url: https://bbs.poiblog.com/
         icon: fas fa-link
         description: ""
       - name: A嘉博客-站点导航页
@@ -736,10 +732,6 @@ categories:
         url: https://gptzero.me/
         icon: fas fa-link
         description: ""
-      - name: 写锤子检讨书 - 首页
-        url: http://jts.egg404.com/#/
-        icon: fas fa-link
-        description: ""
       - name: 获取虚拟手机号码。短期手机号码。手机短信激活服务
         url: https://sms-activate.org/cn/getNumber
         icon: fas fa-link
@@ -752,24 +744,12 @@ categories:
         url: https://gofile.io/welcome
         icon: fas fa-link
         description: ""
-      - name: 易破解 - 给你所需要的内容
-        url: https://www.ypojie.com/
-        icon: fas fa-link
-        description: ""
       - name: Windows | Nite07的小窝
         url: https://www.nite07.com/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD(Onedrive)/Windows?page=1
         icon: fas fa-link
         description: ""
-      - name: sora-web-app
-        url: https://sora.moemiku.com/
-        icon: fas fa-link
-        description: ""
       - name: 万能视频图片解析下载 - SnapAny
         url: https://snapany.com/zh
-        icon: fas fa-link
-        description: ""
-      - name: 壁纸样机生成器 - iPhone、iPad、Mac 锁屏/桌面模板
-        url: https://mjcn.club/
         icon: fas fa-link
         description: ""
       - name: "AlphaNovel: Writing novels website"
@@ -813,10 +793,6 @@ categories:
         description: ""
       - name: Dashboard
         url: https://www.namesilo.com/account/
-        icon: fas fa-link
-        description: ""
-      - name: BPB Panel 2.4.3
-        url: https://bpb-worker-f2g.pages.dev/panel
         icon: fas fa-link
         description: ""
       - name: 订单 |HOSTRY托管服务
@@ -871,10 +847,6 @@ categories:
         url: https://dashboard.webp.se/proxy
         icon: fas fa-link
         description: ""
-      - name: 品赞HTTP代理-优质代理IP服务,爬虫,数据采集,稳定,高匿,定制IP池,支持http、https、socks5协议,API一键提取
-        url: https://www.ipzan.com/user
-        icon: fas fa-link
-        description: ""
       - name: 我的应用 | 高德控制台
         url: https://console.amap.com/dev/key/app
         icon: fas fa-link
@@ -885,10 +857,6 @@ categories:
         description: ""
       - name: 云解析 - 控制台
         url: https://console-intl.huaweicloud.com/dns/?region=ap-southeast-1#/dns/recordset/public/list?zoneid=ff80808290d6a8b00191516bbb6e6fc7&amp;zonename=blog.521778.xyz&amp;zoneStatus=ACTIVE
-        icon: fas fa-link
-        description: ""
-      - name: 产品配置 | 小白云
-        url: https://idc.45fk.cn/cart?action=configureproduct&amp;pid=51
         icon: fas fa-link
         description: ""
       - name: Sealos Cloud
@@ -924,14 +892,6 @@ categories:
     sites:
       - name: 磁力搜索
         url: https://cilisousuo.com/
-        icon: fas fa-link
-        description: ""
-      - name: 亿磁力导航
-        url: https://yicili.813816.app/
-        icon: fas fa-link
-        description: ""
-      - name: 亿磁力
-        url: https://www.yicili.xyz/
         icon: fas fa-link
         description: ""
       - name: Anime Garden 動漫花園資源網第三方镜像站
@@ -1025,24 +985,8 @@ categories:
   - name: 网盘工具
     icon: fas fa-folder
     sites:
-      - name: 多盘拉自助服务
-        url: https://duopan.la/
-        icon: fas fa-link
-        description: ""
-      - name: PanDownload
-        url: https://bbd.2587941.xyz/#/index
-        icon: fas fa-link
-        description: ""
-      - name: pikpak邀请程序
-        url: https://bailao.cangqion.sbs/
-        icon: fas fa-link
-        description: ""
       - name: Paperkite-Pikpak-version1.0.0
         url: https://paperkitepikpak.top/
-        icon: fas fa-link
-        description: ""
-      - name: Paperkite-Pikpak-版本1.0.0
-        url: https://pikpak.xingchen2494658923.workers.dev/
         icon: fas fa-link
         description: ""
   - name: 临时邮箱
@@ -1068,10 +1012,6 @@ categories:
         url: https://www.mohmal.com/zh/inbox
         icon: fas fa-link
         description: ""
-      - name: 微软邮箱批发网|Outlook邮箱购买|Hotmail邮箱购买|邮箱批发
-        url: https://hot.678fakaka.com/
-        icon: fas fa-link
-        description: ""
       - name: 微软邮箱API | 微软邮箱批发|Outlook邮箱批发|hotmail邮箱批发|华胜邮箱API
         url: https://vip.atufn.com/
         icon: fas fa-link
@@ -1082,10 +1022,6 @@ categories:
         description: ""
       - name: 自助邮箱提取
         url: https://shanyouxiang.com/zizhu/
-        icon: fas fa-link
-        description: ""
-      - name: 首页 | 购邮箱 邮箱出售 邮箱批发 邮箱购买 邮箱小号 微软邮箱 网易邮箱 hotmail邮箱 outlook邮箱 谷歌邮箱 购买 批发
-        url: https://gouyouxiang.com/
         icon: fas fa-link
         description: ""
       - name: Firefox Relay
@@ -1109,19 +1045,11 @@ categories:
         icon: fab fa-google
         description: ""
       - name: Memos
-        url: https://memos.521778.xyz/home
-        icon: fas fa-link
-        description: ""
-      - name: Lsky Pro
-        url: https://pic.521778.xyz/dashboard
+        url: https://memos.521778.xyz/
         icon: fas fa-link
         description: ""
       - name: 黑木耳资源站
         url: https://www.heimuer.tv/
-        icon: fas fa-link
-        description: ""
-      - name: PikPak | 我的文件
-        url: https://pikpak.kinh.cc/?Type=List
         icon: fas fa-link
         description: ""
       - name: Dify
@@ -1130,10 +1058,6 @@ categories:
         description: ""
       - name: 手写体文稿生成器-手写模拟器-vtool工具箱
         url: https://vtool.pro/handwriting/index.html
-        icon: fas fa-link
-        description: ""
-      - name: YoYo
-        url: https://yoyo.avolutionai.com/?utm_source=TG&amp;utm_medium=wt2
         icon: fas fa-link
         description: ""
       - name: Wit.ai
@@ -1215,10 +1139,6 @@ categories:
         url: https://www.mangshe.org/#/dashboard
         icon: fas fa-link
         description: ""
-      - name: CF机场2.0
-        url: https://cfyun.top/#/dashboard
-        icon: fas fa-link
-        description: ""
       - name: 秒秒云
         url: https://xn--9kqy4sc0n77ra.com/#/dashboard
         icon: fas fa-link
@@ -1270,14 +1190,6 @@ categories:
         url: https://www.hifini.com/
         icon: fas fa-link
         description: ""
-      - name: Last Order-Crisis Mix (『LAST ORDER FFVII』より) Biu.Moe 分享高音质 ACG 音乐
-        url: https://biu.moe/#/Index/home
-        icon: fas fa-link
-        description: ""
-      - name: freemp3cn
-        url: https://freemp3cn.com/#/
-        icon: fas fa-link
-        description: ""
       - name: 首页 - 绮梦·还悠
         url: https://music.acgs.one/
         icon: fas fa-link
@@ -1289,16 +1201,8 @@ categories:
   - name: 视频
     icon: fas fa-folder
     sites:
-      - name: NyaFun
-        url: https://www.nyafun.net/
-        icon: fas fa-link
-        description: ""
       - name: 小鸭看看
         url: https://xiaoyakankan.com/
-        icon: fas fa-link
-        description: ""
-      - name: 樱花动漫－专注动漫的门户网站
-        url: https://www.iyhdmw.com/
         icon: fas fa-link
         description: ""
       - name: O站_欧派动漫,这里是兴趣使然的无名小站_opacg
@@ -1313,20 +1217,12 @@ categories:
         url: https://yuc.wiki/
         icon: fas fa-link
         description: ""
-      - name: Mp4电影_最新电影下载_最新高清MP4电影资源下载
-        url: https://www.mp4us.com/
-        icon: fas fa-link
-        description: ""
       - name: 85电影网-高清电影下载
         url: https://85128.net/
         icon: fas fa-link
         description: ""
       - name: AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
         url: https://www.acfun.cn/v/list155/index.htm
-        icon: fas fa-link
-        description: ""
-      - name: 极速BT
-        url: https://jisubt.com/#/
         icon: fas fa-link
         description: ""
       - name: FreeOK - 追剧也很卷
@@ -1345,10 +1241,6 @@ categories:
         url: https://www.moefun.net/
         icon: fas fa-link
         description: ""
-      - name: 子夜动漫 - 动漫在线和下载的追番网站
-        url: https://www.ziyedm.com/
-        icon: fas fa-link
-        description: ""
       - name: 不太灵影视
         url: https://www.3bt0.com/
         icon: fas fa-link
@@ -1359,10 +1251,6 @@ categories:
         description: ""
       - name: BTNULL 无名小站
         url: https://www.btnull.net/
-        icon: fas fa-link
-        description: ""
-      - name: 蜜柑计划 - Mikan Project
-        url: https://mikan.yujiangqaq.com/
         icon: fas fa-link
         description: ""
       - name: 蜜柑计划 - Mikan Project
@@ -1381,24 +1269,12 @@ categories:
         url: http://www.995dm.com/
         icon: fas fa-link
         description: ""
-      - name: AGE动漫 - 在线动漫观看
-        url: https://www.agedm.org/?utm_source=cq&amp;utm_campaign=www.age.tv
-        icon: fas fa-link
-        description: ""
       - name: 哈哩哈哩_让你看不释手的温馨小站(H站)
         url: http://halihali28.com/
         icon: fas fa-link
         description: ""
-      - name: Pochacco小姐姐视频
-        url: https://xjj.7xnn.cn/pc/
-        icon: fas fa-link
-        description: ""
       - name: NO视频 – 不负追剧好时光 (￣▽￣)&quot;
         url: https://www.novipnoad.net/
-        icon: fas fa-link
-        description: ""
-      - name: 布谷TV | 4K电影下载-免费下载4K电影、美剧、演示片、蓝光原盘，超高清、无水印！
-        url: https://www.bugutv.org/
         icon: fas fa-link
         description: ""
       - name: Kimivod | 電視劇 電影 動漫 綜藝 線上看
@@ -1427,10 +1303,6 @@ categories:
         description: ""
       - name: 风铃动漫 - 专注于丰富的动漫资源在线平台
         url: https://www.aafun.cc/
-        icon: fas fa-link
-        description: ""
-      - name: AGE动漫 - 在线动漫观看
-        url: https://www.agedm.org/?ref=acg55.com
         icon: fas fa-link
         description: ""
       - name: 次元狗 – 动漫资源分享下载,二次元世界
