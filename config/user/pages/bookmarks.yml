@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-25T02:19:55.317Z
+# 由bookmark-processor.js生成于 2025-06-25T14:56:53.255Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -988,6 +988,10 @@ categories:
       - name: Paperkite-Pikpak-version1.0.0
         url: https://paperkitepikpak.top/
         icon: fas fa-link
+        description: ""
+      - name: 首页 - Google 云端硬盘
+        url: https://drive.google.com/drive/home?dmr=1&amp;ec=wgc-drive-hero-goto
+        icon: fab fa-google
         description: ""
   - name: 临时邮箱
     icon: fas fa-folder
