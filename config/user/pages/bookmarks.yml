@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-27T03:47:17.696Z
+# 由bookmark-processor.js生成于 2025-06-27T04:19:26.026Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -556,6 +556,18 @@ categories:
         url: http://return.kansoushu.com/forum.php
         icon: fas fa-link
         description: ""
+      - name: 404书吧 - 手机版 - Powered by Discuz!
+        url: https://404ku.com/index.php?mobile=2
+        icon: fas fa-link
+        description: ""
+      - name: 123小说网
+        url: https://www.banzhu999999.net/
+        icon: fas fa-link
+        description: ""
+      - name: 禁忌书屋 cool18.com
+        url: https://www.cool18.com/bbs4/
+        icon: fas fa-link
+        description: ""
   - name: 模组
     icon: fas fa-folder
     sites:
@@ -684,6 +696,10 @@ categories:
         description: ""
       - name: 酒入辅助游戏论坛 - 辅助工具|最新 http://2fzb.118pan.com
         url: https://www.jr37.xyz/
+        icon: fas fa-link
+        description: ""
+      - name: Saber 酱的抱枕
+        url: https://saber.love/
         icon: fas fa-link
         description: ""
   - name: 游戏
@@ -1106,6 +1122,14 @@ categories:
         description: ""
       - name: 宝藏
         url: https://bdbdjx.top/user/parse
+        icon: fas fa-link
+        description: ""
+      - name: Artists | Kemono
+        url: https://kemono.su/artists
+        icon: fas fa-link
+        description: ""
+      - name: Welcome | Coomer
+        url: https://coomer.su/
         icon: fas fa-link
         description: ""
   - name: 机场
