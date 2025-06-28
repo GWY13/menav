@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-28T12:26:20.530Z
+# 由bookmark-processor.js生成于 2025-06-28T16:44:17.037Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -700,6 +700,10 @@ categories:
         description: ""
       - name: Saber 酱的抱枕
         url: https://saber.love/
+        icon: fas fa-link
+        description: ""
+      - name: App热-最新发布-第3页
+        url: https://apphot.cc/page/3
         icon: fas fa-link
         description: ""
   - name: 游戏
