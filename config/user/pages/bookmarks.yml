@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-04T04:04:53.047Z
+# 由bookmark-processor.js生成于 2025-07-04T05:45:34.075Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1140,6 +1140,10 @@ categories:
         url: https://coomer.su/
         icon: fas fa-link
         description: ""
+      - name: 工作台 | 码达(NotifyX) 消息推送平台
+        url: https://www.notifyx.cn/console/dashboard
+        icon: fas fa-link
+        description: ""
   - name: 机场
     icon: fas fa-folder
     sites:
@@ -1355,6 +1359,10 @@ categories:
         description: ""
       - name: 音范丝 | 首页——精选4K蓝光原盘下载,顶级收藏
         url: https://www.yinfans.me/
+        icon: fas fa-link
+        description: ""
+      - name: 影视资源分享 - 技能加点
+        url: https://skilladd.org/2025/04/06/4.%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/
         icon: fas fa-link
         description: ""
   - name: 其他
