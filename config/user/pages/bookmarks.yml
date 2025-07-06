@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-06T04:42:12.069Z
+# 由bookmark-processor.js生成于 2025-07-06T05:48:45.057Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -708,6 +708,30 @@ categories:
         description: ""
       - name: 免费API - 提供免费接口调用平台
         url: https://api.aa1.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 27CaT论坛-最全面的资源论坛,学逆向教程,VIP视频收集等
+        url: https://www.27cat.com/
+        icon: fas fa-link
+        description: ""
+      - name: 我爱资源网 - 综合优质网络资源收集分享_游戏辅助资源网_我爱辅助网
+        url: https://www.52zyw1.com/
+        icon: fas fa-link
+        description: ""
+      - name: 老会博客 lhbk_cn - 技术资源教程源码分享社区 - Powered by Discuz!
+        url: https://lhbk.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 偏爱技术社区-偏爱技术吧-星座吧-科学刀-源码网 - 我爱辅助游戏源码!
+        url: https://t.paijishu.net/
+        icon: fas fa-link
+        description: ""
+      - name: 【新提醒】兔源码|Discuz应用中心_专注模板、插件、教程分享
+        url: https://tuyuanma.com/index.php
+        icon: fas fa-link
+        description: ""
+      - name: 【新提醒】九歌社区 - 努力做最有价值的资源社区 by 九歌社区
+        url: https://www.jiubbs.cn/
         icon: fas fa-link
         description: ""
   - name: 游戏
