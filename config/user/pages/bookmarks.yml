@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-06T02:52:50.773Z
+# 由bookmark-processor.js生成于 2025-07-06T04:42:12.069Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -706,6 +706,10 @@ categories:
         url: https://apphot.cc/page/3
         icon: fas fa-link
         description: ""
+      - name: 免费API - 提供免费接口调用平台
+        url: https://api.aa1.cn/
+        icon: fas fa-link
+        description: ""
   - name: 游戏
     icon: fas fa-folder
     sites:
@@ -1363,6 +1367,10 @@ categories:
         description: ""
       - name: 影视资源分享 - 技能加点
         url: https://skilladd.org/2025/04/06/4.%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/
+        icon: fas fa-link
+        description: ""
+      - name: 精品影视苹果cms模板下载_影视资源采集网大全-影视站长圈
+        url: https://www.yszzq.com/
         icon: fas fa-link
         description: ""
   - name: 其他
